@@ -12,7 +12,7 @@ public class Test02 {
         //输出字符串长度值。
         System.out.println(getLength(string));
     }
-    //定义一个getLength方法获取字符串长度（int类型）
+    //定义一个getLength方法获取字符串长度（int类型）。
     public static int getLength(String a){
         int length = a.length();
         return length;

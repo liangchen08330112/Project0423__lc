@@ -11,7 +11,7 @@ public class Test01 {
                     if(j==i) {
                         continue;
                     }
-                    //再次循环嵌套
+                    //再次循环嵌套。
                     for(int k=1;k<5;k++){
                         //如果k不等于i也不等于j
                         if(k!=i&&k!=j){
